@@ -5,9 +5,9 @@
 int main() {
   int i;
   double x; // angle variable in radian +-2.0 radian for now
-  double l1=500.0e-04; // Wavelength in mm
-  double l2=600.0e-04; // Wavelength in mm
-  double l3=700.0e-04; // Wavelength in mm
+  double l1=500.0e-04; // Wavelength in mm, 500 nm
+  double l2=600.0e-04; // Wavelength in mm, 600 nm
+  double l3=700.0e-04; // Wavelength in mm, 700 nm
   double a1=0.25;      // slit width in mm
   double a2=0.1;      // slit width in mm
   double alpha1;
